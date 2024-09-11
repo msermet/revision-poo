@@ -1,5 +1,5 @@
 <?php
-
+namespace App;
 class Acteur {
     // Attributs
     private string $prenom;
